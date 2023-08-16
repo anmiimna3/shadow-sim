@@ -1,0 +1,3 @@
+/home/amin/Documents/shadow/CMakeFiles/shadow.dir
+/home/amin/Documents/shadow/CMakeFiles/edit_cache.dir
+/home/amin/Documents/shadow/CMakeFiles/rebuild_cache.dir

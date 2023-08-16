@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/shadow.dir/src/main.cpp.o -o shadow  -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 
